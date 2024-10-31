@@ -64,6 +64,11 @@ body, html {
     cursor: pointer;
 }
 
+#level, #timer {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
 footer{
     width: 100%;
     max-width: 400px;
